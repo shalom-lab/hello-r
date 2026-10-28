@@ -23,37 +23,37 @@
 
 [仓库](https://github.com/dreamRs/esquisse) · [文档](https://dreamrs.github.io/esquisse)
 
-![esquisse](../images/001/esquisse.png)
+![esquisse](../images/0001/esquisse.png)
 
 2、[gganimate](https://github.com/thomasp85/gganimate)：让静态图动起来。在 `ggplot2` 语法上加几行，就能把时间、组别做成帧动画，导出 GIF 或视频。课堂演示、公众号封面动效都很常用。
 
 [仓库](https://github.com/thomasp85/gganimate) · [文档](https://gganimate.com/)
 
-![gganimate](../images/001/gganimate.png)
+![gganimate](../images/0001/gganimate.gif)
 
 3、[tidyplots](https://github.com/jbengler/tidyplots)：少写样板，直接出期刊常见图。管道式 API 可快速做出点图、箱线图、均值误差棒等科研里常见的图型，适合写论文、交作业时先出图再微调。
 
 [仓库](https://github.com/jbengler/tidyplots) · [文档](https://jbengler.github.io/tidyplots/)
 
-![tidyplots](../images/001/tidyplots.png)
+![tidyplots](../images/0001/tidyplots.png)
 
 4、[ggalign](https://github.com/Yunuuuu/ggalign)：把多张 ggplot 对齐成复杂拼图。可组合热图、树状图、Upset 等，适合生信/医学里常见的「一页多面板」排版，文档和示例都比较全。
 
 [仓库](https://github.com/Yunuuuu/ggalign) · [文档](https://yunuuuu.github.io/ggalign/)
 
-![ggalign](../images/001/ggalign.png)
+![ggalign](../images/0001/ggalign.png)
 
 5、[r-color-palettes](https://github.com/EmilHvitfeldt/r-color-palettes)：R 配色大全。一张清单汇总多个 R 包里的调色板，挑期刊友好或课堂演示用的配色时很省事。
 
 [仓库](https://github.com/EmilHvitfeldt/r-color-palettes)
 
-![r-color-palettes](../images/001/r-color-palettes.png)
+![r-color-palettes](../images/0001/r-color-palettes.png)
 
 6、[patchwork](https://github.com/thomasp85/patchwork)：像拼乐高一样拼图。用 `+`、`|`、`/` 把多张 `ggplot` 合成一页，控制比例和标签，比手调 `par`/`grid` 轻松很多。
 
 [仓库](https://github.com/thomasp85/patchwork) · [文档](https://patchwork.data-imaginist.com/)
 
-![patchwork](../images/001/patchwork.png)
+![patchwork](../images/0001/patchwork.png)
 
 ### 表格与报告
 
@@ -61,13 +61,13 @@
 
 [仓库](https://github.com/ddsjoberg/gtsummary) · [文档](https://www.danieldsjoberg.com/gtsummary/)
 
-![gtsummary](../images/001/gtsummary.png)
+![gtsummary](../images/0001/gtsummary.png)
 
 8、[vitae](https://github.com/mitchelloharawild/vitae)：用 R Markdown 写简历。经历写在文档里，可导出 PDF/HTML；改内容不用手工重排版。
 
 [仓库](https://github.com/mitchelloharawild/vitae) · [文档](https://pkg.mitchelloharawild.com/vitae/)
 
-![vitae](../images/001/vitae.png)
+![vitae](../images/0001/vitae.png)
 
 ### 统计与建模
 
@@ -75,7 +75,7 @@
 
 [仓库](https://github.com/easystats/easystats) · [文档](https://easystats.github.io/easystats/)
 
-![easystats](../images/001/easystats.png)
+![easystats](../images/0001/easystats.png)
 
 ### 交互 / Shiny
 
@@ -83,13 +83,13 @@
 
 [仓库](https://github.com/radiant-rstats/radiant) · [文档](https://radiant-rstats.github.io/docs/)
 
-![radiant](../images/001/radiant.png)
+![radiant](../images/0001/radiant.png)
 
 11、[rhino](https://github.com/Appsilon/rhino)：可维护的 Shiny 项目脚手架。按模块、测试和 JS/Sass 管线搭应用，做仪表盘或作品集时比从零堆一个 `app.R` 更稳妥。
 
 [仓库](https://github.com/Appsilon/rhino) · [文档](https://appsilon.github.io/rhino)
 
-![rhino](../images/001/rhino.png)
+![rhino](../images/0001/rhino.png)
 
 ### 实战案例
 
@@ -97,7 +97,7 @@
 
 [仓库](https://github.com/GeneticistHere/ggplot2-20-journal-cases)
 
-![ggplot2-20-journal-cases](../images/001/ggplot2-20-journal-cases.jpg)
+![ggplot2-20-journal-cases](../images/0001/ggplot2-20-journal-cases.jpg)
 
 ### 开源书
 
@@ -105,7 +105,7 @@
 
 [仓库](https://github.com/geocompx/geocompr) · [在线书](https://r.geocompx.org/)
 
-![geocompr](../images/001/geocompr.png)
+![geocompr](../images/0001/geocompr.png)
 
 ---
 

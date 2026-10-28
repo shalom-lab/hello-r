@@ -5,10 +5,12 @@
 
 灵感来自 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)。英文社区已有 [R Weekly](https://rweekly.org/)（偏博客）；**HelloR** 专挑可点仓库，中文短介绍。
 
+仓库：[shalom-lab/hello-r](https://github.com/shalom-lab/hello-r)
+
 ## 硬规矩（每条条目必须有）
 
 1. **可点链接**：仓库主页必给；有文档站再加「文档」链接  
-2. **配图**：每条下方一张图（截图 / OpenGraph / 官方 logo 卡），放在 `images/期号/`  
+2. **配图**：须体现产品特殊界面/输出的截图或文档示例图；禁止 GitHub Open Graph / social preview 那种仓库名片图。图片放在 `images/期号/`  
 3. **文风**：`编号、[仓库名](url)：一句话钩子。` + 两三句说明  
 
 没有图或没有链接的条目，不进当期。
@@ -23,13 +25,13 @@
 
 | 期号 | 周号 | 文件 |
 |------|------|------|
-| [第 001 期](content/HelloR001.md) | 2026-W44 | 首期（含配图） |
+| [第 001 期](content/hello-r-0001.md) | 2026-W44 | 首期（含配图） |
 
 ## 目录结构
 
 ```
-HelloR/
+hello-r/
 ├── README.md
-├── content/HelloR001.md
-└── images/001/*.png|jpg
+├── content/hello-r-0001.md
+└── images/0001/*.png|jpg|gif
 ```
