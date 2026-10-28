@@ -29,7 +29,9 @@
 
 | 期号 | 文件 |
 |------|------|
-| [HelloR 第001期｜拖拽作图与动画](content/hello-r-0001.md) | 首期（含配图） |
+| [HelloR 第001期｜拖拽作图与动画](content/hello-r-0001.md) | 5 条：拖拽作图、动画与拼图配色 |
+| [HelloR 第002期｜Table1与模型检查](content/hello-r-0002.md) | 4 条：Table1、简历、模型检查与拼图 |
+| [HelloR 第003期｜Shiny与地图实战](content/hello-r-0003.md) | 4 条：Shiny、顶刊复刻与地理计算 |
 
 ## 目录结构
 
@@ -37,5 +39,7 @@
 hello-r/
 ├── README.md
 ├── content/hello-r-0001.md
-└── images/0001/*.png|jpg|gif
+├── content/hello-r-0002.md
+├── content/hello-r-0003.md
+└── images/0001|0002|0003/*.png|jpg|gif
 ```
