@@ -32,6 +32,7 @@
 | [HelloR 第001期｜拖拽作图与动画](content/hello-r-0001.md) | 5 条：拖拽作图、动画与拼图配色 |
 | [HelloR 第002期｜Table1与模型检查](content/hello-r-0002.md) | 4 条：Table1、简历、模型检查与拼图 |
 | [HelloR 第003期｜Shiny与地图实战](content/hello-r-0003.md) | 4 条：Shiny、顶刊复刻与地理计算 |
+| [HelloR 第004期｜表格、缺测与Shiny主题](content/hello-r-0004.md) | 5 条：gt、交互 ggplot、缺测图、边际效应与 bslib |
 
 ## 目录结构
 
@@ -41,5 +42,6 @@ hello-r/
 ├── content/hello-r-0001.md
 ├── content/hello-r-0002.md
 ├── content/hello-r-0003.md
-└── images/0001|0002|0003/*.png|jpg|gif
+├── content/hello-r-0004.md
+└── images/0001|0002|0003|0004/*.png|jpg|gif
 ```
