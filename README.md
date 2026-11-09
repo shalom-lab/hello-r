@@ -33,6 +33,7 @@
 | [HelloR 第002期｜Table1与模型检查](content/hello-r-0002.md) | 4 条：Table1、简历、模型检查与拼图 |
 | [HelloR 第003期｜Shiny与地图实战](content/hello-r-0003.md) | 4 条：Shiny、顶刊复刻与地理计算 |
 | [HelloR 第004期｜表格、缺测与Shiny主题](content/hello-r-0004.md) | 5 条：gt、交互 ggplot、缺测图、边际效应与 bslib |
+| [HelloR 第005期｜生存曲线、填补与中文作图](content/hello-r-0005.md) | 5 条：生存曲线、中文作图、Word 表格、多重填补与 R4DS |
 
 ## 目录结构
 
@@ -43,5 +44,6 @@ hello-r/
 ├── content/hello-r-0002.md
 ├── content/hello-r-0003.md
 ├── content/hello-r-0004.md
-└── images/0001|0002|0003|0004/*.png|jpg|gif
+├── content/hello-r-0005.md
+└── images/0001|0002|0003|0004|0005/*.png|jpg|gif
 ```
