@@ -34,6 +34,7 @@
 | [HelloR 第003期｜Shiny与地图实战](content/hello-r-0003.md) | 4 条：Shiny、顶刊复刻与地理计算 |
 | [HelloR 第004期｜表格、缺测与Shiny主题](content/hello-r-0004.md) | 5 条：gt、交互 ggplot、缺测图、边际效应与 bslib |
 | [HelloR 第005期｜生存曲线、填补与中文作图](content/hello-r-0005.md) | 5 条：生存曲线、中文作图、Word 表格、多重填补与 R4DS |
+| [HelloR 第006期｜出版图、ROC与数据清理](content/hello-r-0006.md) | 5 条：出版图、森林图、模型表、ROC 与 Excel 清理 |
 
 ## 目录结构
 
@@ -45,5 +46,6 @@ hello-r/
 ├── content/hello-r-0003.md
 ├── content/hello-r-0004.md
 ├── content/hello-r-0005.md
-└── images/0001|0002|0003|0004|0005/*.png|jpg|gif
+├── content/hello-r-0006.md
+└── images/0001|0002|0003|0004|0005|0006/*.png|jpg|gif
 ```
